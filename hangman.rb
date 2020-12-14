@@ -52,6 +52,7 @@ class Game
   end  
 
   
+  
   def compare
     self.field_play
 
