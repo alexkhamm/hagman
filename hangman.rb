@@ -51,8 +51,7 @@ class Game
     puts field
   end  
 
-  
-  
+    
   def compare
     self.field_play
 
