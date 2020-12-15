@@ -2,6 +2,9 @@ require 'json'
 
 #hi all
 
+#hi there
+
+
 class Game
 
   attr_accessor :word, :board, :attempts
