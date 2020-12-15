@@ -1,6 +1,5 @@
 require 'json'
 
-
 class Game
 
   attr_accessor :word, :board, :attempts
